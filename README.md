@@ -1,5 +1,7 @@
 # The Playduino server
 
+* Thanks to Mr Jones who inspired this https://github.com/mrjones/Chrome-Arduino
+* The chrome plugin that goes with this project can be found here: https://github.com/DecodedCo/ArduinoInTheBrowser
 * This project got closed down at Decoded and so I no longer maintain it at work, however I think its cool so Im more than happy to continue looking after it. With community help ;)
 * Im alex at Decoded dot com if anyone wants me....
 * It relies on the Arduino (v1.1 - 1.5 doesnt work with ino) being installed, 
